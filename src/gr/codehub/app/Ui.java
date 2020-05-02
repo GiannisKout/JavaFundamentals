@@ -58,6 +58,7 @@ public class Ui {
 
     public void manageBasket(Basket basket){
         Choice choice = Choice.ERROR;
+
         do {
 
             choice = menu();
